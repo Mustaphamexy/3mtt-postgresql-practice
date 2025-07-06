@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Logs
+logs/
+*.log
+logs/**/*.log
+
+# dotenv environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor folders and files
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+dist/
+build/
+
+# PostgreSQL dump files (if any)
+*.sql
+*.dump
+
+# Optional: Ignore generated coverage/test files
+coverage/
